@@ -1,0 +1,232 @@
+{
+  "spider": "",
+  "wallpaper": "http://尚爱影视.999888987.xyz",
+  "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
+  "sites": [
+    {
+      "key": "✨五点短剧✨",
+      "name": "✨五点短剧✨尚爱甄选✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "跳转播放链接": "var player_url=\"&&\"",
+        "线路数组": "<a&&/a>",
+        "播放链接": "href=\"&&\""
+      }
+    },
+    {
+      "key": "✨乾坤短剧✨",
+      "name": "✨乾坤短剧✨尚爱甄选✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "跳转播放链接": "var player_url=\"&&\"",
+        "线路数组": "<a&&/a>",
+        "播放链接": "href=\"&&\""
+      }
+    },
+    {
+      "key": "✨网飞短剧✨",
+      "name": "✨网飞短剧✨尚爱甄选✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "跳转播放链接": "var player_url=\"&&\"",
+        "线路数组": "<a&&/a>",
+        "播放链接": "href=\"&&\""
+      }
+    },
+    {
+      "key": "短剧好看",
+      "name": "✨短剧好看✨尚爱甄选✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "分类url": "http://duanjuhk.com/vodshow/id/{cateId}/letter/{letter}/page/{catePg}.html",
+        "分类": "精选短剧$jingxuanduanju#都市$dushi#穿越$chuanyue#古代$gudai#福利短剧$fuliduanju",
+        "简介": "✨尚爱为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+简介：&&</li>",
+        "线路数组": "<a&&/a>",
+        "线路标题": "</</i>&&<",
+        "跳转播放链接": "var player_url=\"&&\"",
+        "搜索url": "http://duanjuhk.com/vodsearch/page/{pg}/wd/{wd}.html",
+        "搜索模式": "1"
+      }
+    },
+    {
+      "key": "低端影视",
+      "name": "✨低端短剧✨尚爱甄选✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "主页url": "https://diduan3.com/show-duanju-----------/",
+        "数组": "/video/&&</a>",
+        "链接": "/video/+&&\"",
+        "简介": "✨尚爱为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+module-info-introduction-content\">&&</div",
+        "线路数组": "data-dropdown&&</div",
+        "线路标题": "urlDecode(value=\"&&\")+【共+<small>&&</+集】",
+        "播放链接": "href=\"&&\"",
+        "跳转播放链接": "var player_url=\"&&\"",
+        "分类url": "https://diduan3.com/show-duanju-{area}-{by}-{cateId}-{lang}-{letter}---{catePg}---{year}/",
+        "分类": "古装&虐恋&逆袭&悬疑&神豪&重生&反转&复仇&穿越&总裁&甜宠&强者&言情&爽文&女恋&闪婚&离婚&都市&脑洞&仙侠&民国&合集",
+        "分类值": "*"
+      }
+    },
+    {
+      "key": "✨白羊短剧✨",
+      "name": "✨白羊短剧✨尚爱甄选✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "跳转播放链接": "var player_url=\"&&\"",
+        "线路数组": "<a&&/a>",
+        "播放链接": "href=\"&&\""
+      }
+    },
+    {
+      "key": "熊猫短剧",
+      "name": "✨熊猫短剧✨尚爱甄选✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://www.xtqyzz.com/screen/duanju-----------.html",
+        "数组": "lazyloaded&&module-item\"",
+        "标题": "alt=\"&&\"",
+        "链接": "href=\"&&\"",
+        "简介": "✨尚爱为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+none;\">&&<span",
+        "线路数组": "data-dropdown&&</div",
+        "线路标题": "urlDecode(<span>&&</)+【共+<small>&&</+集】",
+        "跳转播放链接": "var player_url=\"&&\"",
+        "分类url": "https://www.xtqyzz.com/screen/duanju-{area}-{by}-{cateId}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "都市&赘婿&战神&古代言情&现代言情&历史&脑洞&玄幻&搞笑&网剧&喜剧&萌宝&神豪&超能&甜宠&复仇&神医&亲情&重生&穿越&年代&悬疑&虐恋&古装&逆袭",
+        "分类值": "*"
+      }
+    },
+    {
+      "key": "✨八戒短剧✨",
+      "name": "✨八戒短剧✨尚爱甄选✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "跳转播放链接": "var player_url=\"&&\"",
+        "线路数组": "<a&&/a>",
+        "播放链接": "href=\"&&\""
+      }
+    },
+    {
+      "key": "OK短剧",
+      "name": "✨OK短剧✨尚爱甄选✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "http://okfrp.com/show/40-----------.html",
+        "数组": "lazyload\"&&</a>",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "简介": "content\">&&</p>",
+        "跳转播放链接": "var player_url=\"&&\"",
+        "分类url": "http://okfrp.com/show/{cateId}-----{letter}---{catePg}---{year}.html",
+        "分类": "女频恋爱$nvpinlianai#反转爽剧$fanzhuanshuangju#脑洞悬疑$naodongxuanyi#年代穿越$niandaichuanyue#古装仙侠$guzhuangxianxia#现代都市$xiandaidushi"
+      }
+    },
+    {
+      "key": "✨HG短剧✨",
+      "name": "✨HG短剧✨尚爱甄选✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://hong.hgyx.vip/index.php/vod/show/id/20.html",
+        "分类url": "https://hong.hgyx.vip/index.php/vod/show/class/{cateId}/id/20/page/{catePg}.html",
+        "分类": "古装&虐恋&逆袭&悬疑&神豪&重生&反转&穿越&总裁&甜宠&言情&爽文&女恋&都市&脑洞&仙侠",
+        "分类值": "*",
+        "简介": "👉请不要相信视频中的广告，以免上当受骗！+<p>&&</p>",
+        "线路数组": "<a&&/a>",
+        "播放链接": "href=\"&&\"",
+        "跳转播放链接": "var player_url=\"&&\""
+      }
+    }
+  ],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "rules": [
+    {
+      "host": "*",
+      "rule": [".m3u8", ".mp4"]
+    },
+    {
+      "host": "*",
+      "rule": ["var player_url="]
+    }
+  ],
+  "parses": [
+    {
+      "name": "CKP解析",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "虾米解析",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    }
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {"category": 4, "name": "mediacodec", "value": "0"},
+        {"category": 1, "name": "fflags", "value": "fastseek"}
+      ]
+    }
+  ],
+  "ads": [
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "vip.ffzyad.com"
+  ],
+  "logo": "https://d.kstore.dev/download/7996/logo/logo.gif",
+  "wallpaper": "https://深色壁纸.xxooo.cf/"
+}
