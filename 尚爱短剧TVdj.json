@@ -1,0 +1,45 @@
+{
+  "spider": "./spider.jar",
+  "sites": [
+    {
+      "key": "✨安迪短剧✨",
+      "name": "✨安迪短剧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/安迪短剧.json"
+    },
+    {
+      "key": "✨PTT短剧✨",
+      "name": "✨PTT短剧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/PTT短剧.json"
+    },
+    {
+      "key": "✨天龙影院✨",
+      "name": "✨天龙短剧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/天龙短剧.json"
+    },
+    {
+      "key": "✨PPTV✨",
+      "name": "✨PP短剧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/PP短剧.json"
+    }
+  ]
+}
