@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {
+      "key": "test_tianlong",
+      "name": "🧞测试-天龙短剧(无Jar)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./duanju/天龙短剧.json"
+    }
+  ]
+}

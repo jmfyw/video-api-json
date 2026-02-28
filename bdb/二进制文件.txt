@@ -1,0 +1,73 @@
+# php二进制下载
+
+```json
+{
+    "armeabi-v7a": {
+        "ver": 1,
+        "size": "10.5mb",
+        "lib": "php7.3.22",
+        "download": [
+            {
+                "name": "armeabi-v7a.zip",
+                "url": "https://hhy.sogoucdn.com/wsbff/wsbaike/2025091304/3ce34eb0-9018-11f0-8f99-33d116b56dd9.jpeg"
+            }
+        ]
+    },
+    "backup": {
+        "ver": 1,
+        "size": "10.5mb",
+        "lib": "php7.4",
+        "download": [
+            {
+                "name": "arm64-v8a.zip",
+                "url": "https://hhy.sogoucdn.com/wsbff/wsbaike/2025091304/3ce34eb0-9018-11f0-8f99-33d116b56dd9.jpeg"
+            }
+        ]
+    },
+    "arm64-v8a": {
+        "ver": 1,
+        "size": "10.5mb",
+        "lib": "bin/php",
+        "download": [
+            {
+                "name": "php_8.4.2.3_arm64-v8a.z01",
+                "url": "https://hhy.sogoucdn.com/wsbff/wsbaike/2025110718/81d35750-bbc8-11f0-8f99-33d116b56dd9.jpeg"
+            },
+            {
+                "name": "php_8.4.2.3_arm64-v8a.zip",
+                "url": "http://127.0.0.1:9978/file/fenmei/php_8.4.2.3_arm64-v8a自已压的.zip"
+            }
+        ]
+    },
+    "x86": {
+        "ver": 1,
+        "size": "21.1mb",
+        "lib": "bin/php",
+        "download": [
+            {
+                "name": "php_8.4.2.3_x86.z01",
+                "url": "https://hhy.sogoucdn.com/wsbff/wsbaike/2025102617/58b18420-b24d-11f0-8063-65d4e8e39390.jpeg"
+            },
+            {
+                "name": "php_8.4.2.3_x86.zip",
+                "url": "https://hhy.sogoucdn.com/wsbff/wsbaike/2025102617/57fdeb90-b24d-11f0-9e89-b1cf963fccc8.jpeg"
+            }
+        ]
+    },
+    "x86_64": {
+        "ver": 1,
+        "size": "21.1mb",
+        "lib": "bin/php",
+        "download": [
+            {
+                "name": "php_8.4.2.3_x86_64.z01",
+                "url": "https://hhy.sogoucdn.com/wsbff/wsbaike/2025102617/774f3170-b24d-11f0-a0fe-4795e8342a1a.jpeg"
+            },
+            {
+                "name": "php_8.4.2.3_x86_64.zip",
+                "url": "https://hhy.sogoucdn.com/wsbff/wsbaike/2025102617/753a0d10-b24d-11f0-91d0-0759527c7976.jpeg"
+            }
+        ]
+    }
+}
+```

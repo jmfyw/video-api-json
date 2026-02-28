@@ -1,0 +1,2 @@
+首先解压缩根目录，本地包的文件夹必须是bdb名称，不要更改。
+如果你要更改就去bin文件夹找到采集合集.py文件更改里面这组数据default_path = "/storage/emulated/0/bdb/lib/cj.json"的/storage/emulated/0/bdb/lib/cj.json更改你解压缩后的实际地址
